@@ -4,7 +4,7 @@ module System.Expect.ExpectInterface
 
    ExpectType(ExpExact,ExpRegex,ExpGlob,ExpNull)
 
-  ,ExpectCase(ExpectCase,expectPattern,expectType,expectValue)
+,ExpectCase(ExpectCase,expectPattern,expectType,expectValue)
   ,ExpectProc(ExpectProc,expectHandle,expectFilePtr)
   ,muteExpect,unmuteExpect
   ,spawnExpect
