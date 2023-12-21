@@ -4,9 +4,9 @@ synopsis: Library for interacting with console applications via pseudoterminals.
 license: BSD3
 license-file: license.txt
 author: Arthur Dartora
-maintainer: fsociety1337@hotmail.com
+maintainer: yourexample@gmail.com
 build-type: Configure
-cabal-version: >=1.2
+cabal-version: >=1.7
 category: System
 
 description:
